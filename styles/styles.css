@@ -1,0 +1,50 @@
+body{
+    font-family: "calibri";
+    text-align: center;
+}
+
+
+main{
+    display: flex;
+    margin: 10% 10% 10% 10%;
+    height: 50%;
+}
+section{
+    text-align: left;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 25%;
+    background-color: orangered;
+}
+
+.perfil{
+    width: 45%;
+    height: 45%;
+}
+
+button{
+    font-size: 60%;
+    border-color: orangered;
+    border: 5%;
+    background-color: white;
+    width: 30%;
+    height: 10%;
+    border-radius: 40px;
+}
+
+.botao{
+    text-align: center;
+}
+
+.ola{
+    color: white;
+    text-align: center;
+    background-color: orangered;
+}
+
+footer{
+    text-align: left;
+    background-color: grey;
+    border-bottom: 100%;
+}
+
